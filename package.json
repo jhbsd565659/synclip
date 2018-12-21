@@ -1,0 +1,7 @@
+{
+  "main": "synclip.js",
+  "dependencies": {
+    "request": "2.88.0"
+  }
+}
+
